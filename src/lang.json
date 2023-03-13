@@ -1,0 +1,46 @@
+{
+  "zh": {
+    "input": "输入",
+    "output": "输出"
+  },
+  "en": {
+    "input": "Input",
+    "output": "Output"
+  },
+  "de": {
+    "input": "eingeben",
+    "output": "Ausgang"
+  },
+  "es": {
+    "input": "ingresar",
+    "output": "Producción"
+  },
+  "fr": {
+    "input": "entrer",
+    "output": "Sortir"
+  },
+  "it": {
+    "input": "accedere",
+    "output": "Produzione"
+  },
+  "ja": {
+    "input": "入力",
+    "output": "出力"
+  },
+  "ko": {
+    "input": "입력하다",
+    "output": "산출"
+  },
+  "pt": {
+    "input": "digitar",
+    "output": "Saída"
+  },
+  "ru": {
+    "input": "входить",
+    "output": "Выход"
+  },
+  "zh-tw": {
+    "input": "輸入",
+    "output": "輸出"
+  }
+}
