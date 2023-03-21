@@ -9,6 +9,7 @@
   "he3": {
     "name": "He3 Demo Tool",
     "id": "he3-demo-tool",
+    "icon": "block-outlined",
     "version": "0.0.1",
     "description": "He3 Demo Tool",
     "isPublic": true,
