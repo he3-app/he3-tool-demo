@@ -12,6 +12,7 @@
     "icon": "block-outlined",
     "version": "0.0.1",
     "description": "He3 Demo Tool",
+    "relatedToolId": [],
     "isPublic": true,
     "category": [
       "encode"
