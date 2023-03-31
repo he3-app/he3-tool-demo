@@ -4,7 +4,7 @@ This is a demo tool for the He3 open platform, designed to showcase the basic fu
 
 ## Getting Stared
 
-You can get quick start in: [https://docs.he3app.com](https://docs.he3app.com) or follow these steps:
+Follow the detailed steps on the [quick start](https://docs.he3app.com) page or follow these simple steps below.
 
 ### Install Latest He3
 
