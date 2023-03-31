@@ -15,6 +15,7 @@ Follow: [https://he3.app](https://he3.app)
 ```
 git clone https://github.com/he3-app/he3-tool-demo
 ```
+
 ### Install any necessary dependencies.
 
 ```
@@ -22,10 +23,14 @@ npm i
 ```
 
 ### Edit and debug the codes with livereload
+
 ```
 npm run dev
 ```
 
+### Official tools example
+
+Go to [https://github.com/he3-app/tools-example](https://github.com/he3-app/tools-example) get more official tools example.
 
 ### Publish the tool.
 
@@ -33,10 +38,12 @@ npm run dev
 npm run publish
 ```
 
-You can get more details here: [https://docs.he3.app](https://docs.he3.app)
+You can get more details here: [https://docs.he3app.com](https://docs.he3app.com)
 
 ## Support
+
 If you encounter any issues or have any questions about the He3 open platform demo tool, please reach out to our support team at [https://github.com/he3-app/he3-feedback/discussions](https://github.com/he3-app/he3-feedback/discussions)
 
 ## Contributing
+
 If you're interested in contributing, please fork the repository and submit a pull request with your changes. We welcome contributions from the community and are always looking to improve our tools and resources.
