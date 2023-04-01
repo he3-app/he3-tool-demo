@@ -1,0 +1,112 @@
+{
+  "zh-cn": {
+    "$name": "He3 Demo Tool",
+    "$description": "He3 Demo Tool",
+    "$keywords": [
+      "idn",
+      "punycode",
+      "encode",
+      "domain"
+    ]
+  },
+  "zh-tw": {
+    "$name": "He3 Demo Tool",
+    "$description": "He3 Demo Tool",
+    "$keywords": [
+      "idn",
+      "punycode",
+      "encode",
+      "domain"
+    ]
+  },
+  "en": {
+    "$name": "He3 Demo Tool",
+    "$description": "He3 Demo Tool",
+    "$keywords": [
+      "idn",
+      "punycode",
+      "encode",
+      "domain"
+    ]
+  },
+  "es": {
+    "$name": "He3 Demo Tool",
+    "$description": "He3 Demo Tool",
+    "$keywords": [
+      "idn",
+      "punycode",
+      "encode",
+      "domain"
+    ]
+  },
+  "ja": {
+    "$name": "He3 Demo Tool",
+    "$description": "He3 Demo Tool",
+    "$keywords": [
+      "idn",
+      "punycode",
+      "encode",
+      "domain"
+    ]
+  },
+  "ko": {
+    "$name": "He3 Demo Tool",
+    "$description": "He3 Demo Tool",
+    "$keywords": [
+      "idn",
+      "punycode",
+      "encode",
+      "domain"
+    ]
+  },
+  "de": {
+    "$name": "He3 Demo Tool",
+    "$description": "He3 Demo Tool",
+    "$keywords": [
+      "idn",
+      "punycode",
+      "encode",
+      "domain"
+    ]
+  },
+  "fr": {
+    "$name": "He3 Demo Tool",
+    "$description": "He3 Demo Tool",
+    "$keywords": [
+      "idn",
+      "punycode",
+      "encode",
+      "domain"
+    ]
+  },
+  "it": {
+    "$name": "He3 Demo Tool",
+    "$description": "He3 Demo Tool",
+    "$keywords": [
+      "idn",
+      "punycode",
+      "encode",
+      "domain"
+    ]
+  },
+  "ru": {
+    "$name": "He3 Demo Tool",
+    "$description": "He3 Demo Tool",
+    "$keywords": [
+      "idn",
+      "punycode",
+      "encode",
+      "domain"
+    ]
+  },
+  "pt": {
+    "$name": "He3 Demo Tool",
+    "$description": "He3 Demo Tool",
+    "$keywords": [
+      "idn",
+      "punycode",
+      "encode",
+      "domain"
+    ]
+  }
+}
