@@ -4,7 +4,7 @@ This is a demo tool for the He3 open platform, designed to showcase the basic fu
 
 ## Getting Stared
 
-To get started with the demo tool, simply follow these steps:
+Follow the detailed steps on the [quick start](https://docs.he3app.com) page or follow these simple steps below.
 
 ### Install Latest He3
 
@@ -33,6 +33,8 @@ npm run dev
 Go to [https://github.com/he3-app/tools-example](https://github.com/he3-app/tools-example) get more official tools example.
 
 ### Publish the tool.
+
+Before publishing, please modify the id field in the package.json file, otherwise it may cause the publishing to fail.
 
 ```
 npm run publish
