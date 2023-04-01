@@ -34,6 +34,8 @@ Go to [https://github.com/he3-app/tools-example](https://github.com/he3-app/tool
 
 ### Publish the tool.
 
+Before publishing, please modify the id field in the package.json file, otherwise it may cause the publishing to fail.
+
 ```
 npm run publish
 ```
