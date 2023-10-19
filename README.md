@@ -8,7 +8,7 @@ Follow the detailed steps on the [quick start](https://docs.he3app.com) page or 
 
 ### Install Latest He3
 
-Follow: [https://he3.app](https://he3.app)
+Follow: [https://he3app.com](https://he3app.com)
 
 ### Clone the repository
 
